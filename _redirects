@@ -1,8 +1,8 @@
 # Netlify redirects. See https://docs.netlify.com/routing/redirects/
 
 # Redirects from what the browser requests to what we serve
-/app               /
-/app/discove       https://www.discove.xyz
-/app/phrasetown    https://phrasetown.com
-/app/pixelpool     https://www.pixelpool.xyz
-/app/translate     https://www.icloud.com/shortcuts/a116a2f7a5cc4cfc851875d17d8b768f
+/app                              /
+/app/discove                      https://www.discove.xyz
+/app/phrasetown                   https://phrasetown.com
+/app/pixelpool                    https://www.pixelpool.xyz
+/app/translate-apple-shortcut     https://www.icloud.com/shortcuts/a116a2f7a5cc4cfc851875d17d8b768f
